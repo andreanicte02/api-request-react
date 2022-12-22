@@ -53,7 +53,7 @@ export default function AppFoodTable({
                                     </td>
                                     <td>
 
-                                        <img style={{ widht: '80px', height: '10 £0px' }} src={element.strMealThumb}></img>
+                                        <img src={element.strMealThumb}></img>
 
                                     </td>
                                 </tr>
