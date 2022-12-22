@@ -1,0 +1,42 @@
+.foodTitle 
+    div{
+        background-color: #2874A6;
+        width: 550px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+    h1{
+        color:white;
+    }
+    #espacio{
+        height: 50px;
+        background-color: white;
+    }
+
+    .foodTable
+        table{
+            width: 550px;
+        }
+        th{
+            background-color: #2874A6;
+              
+            
+        }
+        td{
+           
+            background-color: #78CAF5; 
+        }
+        table,td,th{
+            border-collapse: collapse;
+            border: 1px solid;
+        }
+
+        label{
+            color:white;
+        }
+        img{
+            width: 100px;
+        }
+        
+    
